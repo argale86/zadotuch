@@ -1,0 +1,15 @@
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.csproj.AssemblyReference.cache
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.AssemblyInfoInputs.cache
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.AssemblyInfo.cs
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.csproj.CoreCompileInputs.cache
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\bin\Debug\net7.0\c# task ot prepodavatela homework 6.exe
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\bin\Debug\net7.0\c# task ot prepodavatela homework 6.deps.json
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\bin\Debug\net7.0\c# task ot prepodavatela homework 6.runtimeconfig.json
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\bin\Debug\net7.0\c# task ot prepodavatela homework 6.dll
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\bin\Debug\net7.0\c# task ot prepodavatela homework 6.pdb
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.dll
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\refint\c# task ot prepodavatela homework 6.dll
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.pdb
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\c# task ot prepodavatela homework 6.genruntimeconfig.cache
+E:\Обучение в ГБ\c# task ot prepodavatela homework 6\obj\Debug\net7.0\ref\c# task ot prepodavatela homework 6.dll
